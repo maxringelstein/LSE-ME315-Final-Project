@@ -1,4 +1,4 @@
-# Machine Learning Tasks: Predicting Track Popularity & Genre from Spotify Audio Features
+# Machine Learning Project: Predicting Track Popularity & Genre from Spotify Audio Features
 
 A machine learning project analysing 176,773 unique Spotify tracks to answer two questions: how well can a track's popularity be predicted from its audio features alone, and how well can its genre be identified from the same features? Built for the ME315 Machine Learning in Practice course at LSE Summer School.
 
